@@ -16,6 +16,8 @@
 
 🌐 **Live Dashboard:** https://romanm24.github.io/deltaforce-soc-ai
 
+![Delta Force SOC Dashboard](BF08CB84-8F0A-4A3D-B1F8-D00F71C47AA5.png)
+
 ---
 
 ## Tech Stack
